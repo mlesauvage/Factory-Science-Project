@@ -1,0 +1,172 @@
+[
+ {
+  "question": "Hello Boss. If we shipped our recycling overseas, it would be cheaper for our company. It may be worse for the environment, but at least the shareholders would be happy.",
+  "closing": "Please consider my offer.",
+  "signature": "Jane Harvey",
+  "email": "harvey.jane@employee.com",
+  "yesIncome": 2,
+  "yesSatisfaction": 5,
+  "yesWasteOutput": 15,
+  "yesCashChange": -30
+ },
+ {
+  "question": "Good morning Boss. I'm concerned at the amount of non-recyclable waste this company outputs. If you could consider purchasing different packaging for our product, I'm sure it would make a great impact on our environment. However, please consider the cost on the company.",
+  "closing": "Thank you for considering,",
+  "signature": "Maxwell Vitar",
+  "email": "vitar.max@employee.com",
+  "yesIncome": -1,
+  "yesSatisfaction": -10,
+  "yesWasteOutput": -20,
+  "yesCashChange": -30
+ },
+ {
+  "question": "Good day to you Boss. Our customers are becoming concerned; everyone's talking about going green and they want us to join the others. Perhaps we could  hire some people, spread the word that our product is safe for the environment. Of course there would be a cost, but our sales would certainly go up due to more people supporting our business, and our shareholders would also endorse this, as they'd make more money.",
+  "closing": "Sincerely,",
+  "signature": "John Leed",
+  "email": "@leed.johnemployee.com",
+  "yesIncome": 15,
+  "yesSatisfaction": 15,
+  "yesWasteOutput": 0,
+  "yesCashChange": -30
+ },
+ {
+  "question": "Hello there Boss. After some thinking, I came up with a way we can cut costs on our company. If we switch over to a computer based system, then we would reduce the cost of things such as printer ink and paper. However, there might be some lost productivity as everyone learns to use the new system, and also consider the cost of purchasing a great number of computers for everyone.",
+  "closing": "With kind regards,",
+  "signature": "Dave Stringer",
+  "email": "stringer.dave@employee.com",
+  "yesIncome": 10,
+  "yesSatisfaction": -15,
+  "yesWasteOutput": -20,
+  "yesCashChange": -40
+ },
+ {
+  "question": "Hello Boss. To promote our quest to go green, we could provide reusable cloth shopping bags free with every purchase. There would be a cost, however I believe that the long term income increase would balance that.",
+  "closing": "Please consider my offer.",
+  "signature": "Jane Harvey",
+  "email": "harvey.jane@employee.com",
+  "yesIncome": 2,
+  "yesSatisfaction": -5,
+  "yesWasteOutput": 10,
+  "yesCashChange": 5
+ },
+ {
+  "question": "Hello there Boss. I have a proposition for you. If we sent all the employees who have no need for office space to work at home, then we could cut costs on electricity, and we would have the added benefit of reducing the pollution as a cause of commuting. ",
+  "closing": "With kind regards,",
+  "signature": "Dave Stringer",
+  "email": "stringer.dave@employee.com",
+  "yesIncome": 10,
+  "yesSatisfaction": 0,
+  "yesWasteOutput": -5,
+  "yesCashChange": 0
+ },
+ {
+  "question": "Good day to you Boss. To put it simply, plastic is cheaper than paper. We could replace our more expensive yet better for the environment packaging, for this cheaper plastic. I'm sure our shareholders would agree. It would however be a pollutant, as it is unable to break down properly.",
+  "closing": "Sincerely,",
+  "signature": "John Leed",
+  "email": "leed.john@employee.com",
+  "yesIncome": 10,
+  "yesSatisfaction": 10,
+  "yesWasteOutput": 15,
+  "yesCashChange": -15
+ },
+ {
+  "question": "Hi there Mister! My name is Anna, and I'm very involved with the efforts our community is making to become more green. One of the ideas I came up with is that you can change the coffee machines into normal ones that don't only make one cup at a time. And then you can also not have paper cups available, have reusable mugs for employee usage.",
+  "closing": "Please think about this!",
+  "signature": "Anna McCally",
+  "email": "green.planet@gowogle.com",
+  "yesIncome": 15,
+  "yesSatisfaction": -15,
+  "yesWasteOutput": -10,
+  "yesCashChange": -10
+ },
+ {
+  "question": " Good morning Boss. If we updated our repair and inspection routing to occur more often, then we would practically eliminate the risk of leaky faucets, which would cause our income to go up as we wouldn't have extra fees for using more water, even if we aren't actively using it.",
+  "closing": "Thank you for considering,",
+  "signature": "Maxwell Vitar",
+  "email": "vitar.maxwell@employee.com",
+  "yesIncome": 10,
+  "yesSatisfaction": -15,
+  "yesWasteOutput": -15,
+  "yesCashChange": -10
+ },
+ {
+  "question": "Hello there Boss. If we switch to compact flourescent lights, or LED lights, then we would be able to save on overall cost, as they're more energy efficient, and they last longer than traditional light bulbs. However, we would have to replace all our exsisting bulbs, and they're not necessarily cheap, which our shareholders might not appreciate.",
+  "closing": "With kind regards,",
+  "signature": "Dave Stringer",
+  "email": "stringer.dave@employee.com",
+  "yesIncome": 10,
+  "yesSatisfaction": -5,
+  "yesWasteOutput": -10,
+  "yesCashChange": -30
+ },
+ {
+  "question": "Good morning Boss. I had a wonderful idea. What if we hosted a fundraising event,  where we collect money to donate to causes that make our world more sustainable. We could set up in a park, host a barbeque, something along those lines. It would cost money, but I think it would spread the word. We would also clean up after we're done.",
+  "closing": "Thank you for considering,",
+  "signature": "Maxwell Vitar",
+  "email": "vitar.maxwell@employee.com",
+  "yesIncome": 10,
+  "yesSatisfaction": 5,
+  "yesWasteOutput": -5,
+  "yesCashChange": 10
+ },
+ {
+  "question": "Hello Boss. I had a wonderful idea. What if we installed some solar panels on the roof so that some of our energy is greener? Of course there would be a great initial cost, and our shareholders might not appreciate it, but our income would go up, and our waste would be reduced.",
+  "closing": "Please consider my offer.",
+  "signature": "Jane Harvey",
+  "email": "harvey.jane@employee.com",
+  "yesIncome": 10,
+  "yesSatisfaction": -10,
+  "yesWasteOutput": -10,
+  "yesCashChange": -20
+ },
+ {
+  "question": "Hello there Boss. If we bought some light timers, we could decrease electricity waste by having the lights turn off if we've forgotten to at the end of the day. Of course there would be a cost, but I believe that the long term benefits are worth it.",
+  "closing": "With kind regards,",
+  "signature": "Dave Stringer",
+  "email": "stringer.dave@employee.com",
+  "yesIncome": 10,
+  "yesSatisfaction": -15,
+  "yesWasteOutput": -5,
+  "yesCashChange": -10
+ },
+ {
+  "question": "Good day to you Boss. I've been thinking about this, and come to the conclusion that we should stop going forward with one of our expensive energy saving projects. It's not going to have much of an effect at all, so why bother. I'm sure our shareholders would agree with me.",
+  "closing": "Sincerely,",
+  "signature": "John Leed",
+  "email": "leed.john@employee.com",
+  "yesIncome": -10,
+  "yesSatisfaction": 10,
+  "yesWasteOutput": 15,
+  "yesCashChange": 20
+ },
+ {
+  "question": "Good day to you Boss. I believe every employee should have a personal fan on their desk, as I'm confident it would increase productivity. Of course, we would use more electricity, and I'm not sure our shareholders would appreciate this. However I am certain that the increase in productivity would make up for the cost.",
+  "closing": "Sincerely,",
+  "signature": "John Leed",
+  "email": "leed.john@employee.com",
+  "yesIncome": -10,
+  "yesSatisfaction": -30,
+  "yesWasteOutput": 10,
+  "yesCashChange": -100
+ },
+ {
+  "question": "Good morning Boss. To reduce our paper usage and waste, what if we put hand dryers into the bathroom instead of paper towels, it would decrease our waste output. It would have a decent initial cost as electric dryers are not cheap, but it would be worth it.",
+  "closing": "Thank you for considering,",
+  "signature": "Maxwell Vitar",
+  "email": "vitar.maxwell@employee.com",
+  "yesIncome": 10,
+  "yesSatisfaction": -15,
+  "yesWasteOutput": -10,
+  "yesCashChange": -10
+ },
+ {
+  "question": "Good morning Boss. I had an idea. What if we installed some skylights into the roof. We would be able to cut costs on electricity, and I think that the natural light would improve productivity among our workers. However, it would have a cost to initiate, so our shareholders might not appreciate it.",
+  "closing": "Thank you for considering,",
+  "signature": "Maxwell Vitar",
+  "email": "vitar.maxwell@employee.com",
+  "yesIncome": 5,
+  "yesSatisfaction": -15,
+  "yesWasteOutput": -5,
+  "yesCashChange": -10
+ }
+]
